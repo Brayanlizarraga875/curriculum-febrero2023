@@ -6,3 +6,12 @@ Rodolfo T. Loaiza
 
 ## Primaria
 Jaime Nuno
+
+## Secundaria
+Escuela Secundaria Tecnica 28
+
+## Preparatoria
+UAS
+
+## Universidad
+UAdeO
